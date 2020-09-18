@@ -63,5 +63,6 @@ img:hover {
 }
 
 .large {
-  
+  width: 250%;
+  height: 250%;
 }
